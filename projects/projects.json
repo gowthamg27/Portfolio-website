@@ -37,7 +37,7 @@
     "image": "ecommerce",
     "category": "UiUx",
     "links": {
-      "view": "https://www.linkedin.com/posts/gowthamg27_uiuxdesign-figma-onlineshopping-activity-7140754937591808000-xiOJ?utm_source=share&utm_medium=member_desktop",
+      "view": "https://www.figma.com/proto/pZa0bZE7RNVH3sDx5WTYBf/Websites?page-id=562%3A166&node-id=562-167&viewport=556%2C369%2C0.14&t=QDwX1G8T59DVwtxE-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=562%3A195",
       "code": "https://github.com/gowthamg27/shopping-app"
     }
   },
@@ -53,13 +53,23 @@
   },
 
   {
-    "name": "Burgerking Website Design ",
+    "name": "Burgerking Website Landing Page ",
     "desc": "This project was designed in Figma,its robust prototyping features to create an interactive and engaging user experience.",
     "image": "burgerking",
     "category": "UiUx",
     "links": {
-      "view": "https://www.linkedin.com/posts/gowthamg27_figma-uiandux-webdesign-activity-7122608144370831360-majO?utm_source=share&utm_medium=member_desktop",
+      "view": "https://www.figma.com/proto/pZa0bZE7RNVH3sDx5WTYBf/Websites?page-id=554%3A2560&node-id=554-2561&viewport=535%2C414%2C0.33&t=cj22Mzhki7Jg9IJN-1&scaling=scale-down&content-scaling=fixed",
       "code": "https://github.com/gowthamg27/burgerKing-uiux"
+    }
+  },
+  {
+    "name": "Stridex shoes landing page",
+    "desc": "This project was designed in Figma,its robust prototyping features to create an interactive and engaging user experience.",
+    "image": "stridex",
+    "category": "UiUx",
+    "links": {
+      "view": "https://www.figma.com/proto/pZa0bZE7RNVH3sDx5WTYBf/Websites?page-id=519%3A319&node-id=519-750&viewport=163%2C295%2C0.06&t=RwiFUDJqkE086NEo-1&scaling=scale-down&content-scaling=fixed",
+      "code": "#"
     }
   },
   {
@@ -93,12 +103,12 @@
     }
   },
   {
-    "name": "Foodshop Website Design",
+    "name": "Foodshop Website Landing  Page ",
     "desc": "This project was designed in Figma,its robust prototyping features to create an interactive and engaging user experience.",
     "image": "onlineshop",
     "category": "UiUx",
     "links": {
-      "view": "https://www.linkedin.com/posts/gowthamg27_uiuxdesign-uichallenge-uiuxdesigning-activity-7152692595586990080-o-sr?utm_source=share&utm_medium=member_desktop",
+      "view": "https://www.figma.com/proto/pZa0bZE7RNVH3sDx5WTYBf/Websites?page-id=0%3A1&node-id=1-19&viewport=632%2C261%2C0.04&t=uvww4u7Ag6RAg9aJ-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A19",
       "code": "https://github.com/gowthamg27/e-commerce-UIUX"
     }
   },
